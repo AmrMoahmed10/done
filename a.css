@@ -1,0 +1,16 @@
+.lorem {
+  width: 900px;
+  height: 900px;
+  overflow: scroll;
+  /* text-shadow: 1px 1px 5px rgb(10, 10, 10); */
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+legend {
+  font-size: 50px;
+  background-color: #000;
+}
+fieldset {
+  font-size: 50px;
+}
